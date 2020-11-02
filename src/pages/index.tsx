@@ -9,7 +9,7 @@ export default () => (
   <>
     <Header titlePre="Home" />
     <div className={sharedStyles.layout}>
-    <!--  <img
+    <!--<img
         src="/vercel-and-notion.png"
         height="85"
         width="250"
