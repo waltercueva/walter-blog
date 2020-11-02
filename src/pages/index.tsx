@@ -17,7 +17,7 @@ export default () => (
       />
       <h1>Blog Personal</h1>
       <h2>
-        Blazing Fast Notion Blog with Next.js'{' '}
+        ...
       </h2>
 
      </div>
